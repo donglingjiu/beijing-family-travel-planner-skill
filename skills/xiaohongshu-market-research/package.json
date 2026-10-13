@@ -1,0 +1,17 @@
+{
+  "name": "xiaohongshu-market-research",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch:xhs": "node scripts/xhs_fetch.js",
+    "report:table": "node scripts/render_table_report.js",
+    "prepare:login": "node scripts/xhs_fetch.js --prepare-login --headless false",
+    "cookie:from-cdp": "node scripts/export_xhs_cookie_from_cdp.js",
+    "cookie:login": "node scripts/capture_xhs_cookie_via_login.js"
+  },
+  "dependencies": {
+    "playwright-core": "1.52.0",
+    "dotenv": "16.4.5"
+  }
+}

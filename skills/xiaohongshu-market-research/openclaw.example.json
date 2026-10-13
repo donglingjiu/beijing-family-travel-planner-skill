@@ -1,0 +1,13 @@
+{
+  "skills": {
+    "entries": {
+      "xiaohongshu-market-research": {
+        "env": {
+          "XHS_USER_DATA_DIR": "/data/xhs-user-data",
+          "XHS_CHROME_PATH": "/usr/bin/chromium-browser",
+          "XHS_LOGIN_TIMEOUT_MS": "300000"
+        }
+      }
+    }
+  }
+}

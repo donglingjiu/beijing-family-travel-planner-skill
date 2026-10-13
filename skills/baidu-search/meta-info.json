@@ -1,0 +1,20 @@
+{
+  "name": "baidu-search",
+  "description": "使用百度搜索引擎进行网页搜索，获取实时信息。适用于搜索新闻、文档、教程或任何需要网络搜索的信息。通过浏览器工具进行搜索，避免反爬虫限制。",
+  "author": "liangfu",
+  "version": "1.0.1",
+  "lastUpdated": "2026-02-13 18:03:59",
+  "skillName": "百度搜索",
+  "createdAt": "2026-02-13 17:56:20",
+  "likeCount": 2,
+  "viewCount": 15154,
+  "favoriteCount": 8,
+  "callCount": 0,
+  "tags": [
+    "调查研究",
+    "效率工具"
+  ],
+  "marketplaceType": "onetool",
+  "marketplaceID": "baidu_onetool_skills",
+  "marketplaceName": "百度OneTool-Skills市场"
+}

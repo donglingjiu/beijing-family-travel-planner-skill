@@ -1,0 +1,20 @@
+{
+  "name": "xiaohongshu-market-research",
+  "description": "抓取小红书关键词下的帖子、一级评论、二级评论，并基于抓取结果输出市场调研总结。只要用户提到“小红书”“XHS”“关键词调研”“帖子和评论抓取”“评论区分析”“市场调研总结”“竞品内容分析”“用户需求洞察”等场景，都应主动使用这个 skill，哪怕用户没有明确说“skill”。",
+  "author": "zhaochanghua",
+  "version": "1.0.3",
+  "lastUpdated": "2026-07-08 18:11:46",
+  "skillName": "小红书市场调研",
+  "createdAt": "2026-03-17 16:27:58",
+  "likeCount": 1,
+  "viewCount": 2525,
+  "favoriteCount": 6,
+  "callCount": 0,
+  "tags": [
+    "调查研究",
+    "效率工具"
+  ],
+  "marketplaceType": "onetool",
+  "marketplaceID": "baidu_onetool_skills",
+  "marketplaceName": "百度OneTool-Skills市场"
+}
